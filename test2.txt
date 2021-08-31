@@ -1,1 +1,4 @@
- This is test file 2
+ This is test creating conflict
+
+ adding another line but deleting the old one
+
