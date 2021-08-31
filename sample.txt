@@ -1,1 +1,3 @@
 This is the sample file 1
+
+Adding addional line to create conflict
