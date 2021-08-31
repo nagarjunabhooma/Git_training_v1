@@ -3,3 +3,4 @@ modifying to test the ssh authentication
 and i amd not sure how to save
 
 this is a test file to test it
+Practicing stash feature change to test 
