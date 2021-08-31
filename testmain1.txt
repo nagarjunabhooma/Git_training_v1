@@ -1,1 +1,4 @@
 This is test file in main branch
+
+I have copied this text from the google and using this option to test merging. 
+
